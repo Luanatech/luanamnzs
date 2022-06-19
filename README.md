@@ -19,7 +19,7 @@
 </div>
     
 <div align="right" height="30" width="300">
-  <a href="https://ko-fi.com/luanamnzs" target="blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="110" alt="luanamnzs" /></a></div>
+  <a href="https://ko-fi.com/luanamnzs" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="110" alt="luanamnzs" /></a></div>
   
 <div align="left"> 
 &nbsp &nbsp <a href="https://twitter.com/luanamnzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luanamnzs" height="15" width="25" /></a><a href="https://linkedin.com/in/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@" height="15" width="25" /></a>
