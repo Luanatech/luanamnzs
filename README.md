@@ -1,31 +1,40 @@
 ### Hi I'm Luana! 👋
 
-- 🌱 I’m currently learning Swift 🧡
+<!-- - 🌱 I’m currently learning Swift 🧡 -->
 <!--
 <div style="display: inline_block"><br>  
   <img align="right" alt="Luana" height="120" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_dJAkRlTy.png">
 </div>
 -->
+<p>🌱 <span style="color: #ff99cc;"><code><em>I&rsquo;m currently learning Swift </em></code></span></p>
+
 <div align="center">
   <a href="https://github.com/luanamnzs">
-  <img align="left" alt="Luana" height="120" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_dJAkRlTy.png">
-</div
+  <img align="left" alt="Luana" height="110" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_dJAkRlTy.png">
+    </div>
   
-<div align="center">
+<div align="left">
   <a href="https://github.com/luanamnzs">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=luanamnzs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>      
-  <br><a href="https://ko-fi.com/luanamnzs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="90" alt="luanamnzs" /></a>
-  &nbsp<a href="https://www.buymeacoffee.com/luanamnzs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="90" alt="luanamnzs" /></a>|  
-  <a href="https://twitter.com/luanamnzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luanamnzs" height="15" width="25" /> </a><a href="https://linkedin.com/in/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@" height="15" width="25" /></a>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=luanamnzs&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>      
+</div>
+    
+<div align="right" height="30" width="300">
+  <a href="https://ko-fi.com/luanamnzs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="110" alt="luanamnzs" /></a></div>
+  
+<div align="left"> 
+&nbsp &nbsp <a href="https://twitter.com/luanamnzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luanamnzs" height="15" width="25" /></a><a href="https://linkedin.com/in/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@" height="15" width="25" /></a>
 <a href="https://instagram.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@" height="15" width="25" /></a>
 <a href="https://medium.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@" height="15" width="25" /></a>    
- | &nbsp<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="17" height="17" /> </a>  
+&nbsp ... &nbsp<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="17" height="17" /> </a>  
 &nbsp<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="17" height="17" /> </a>  
 &nbsp<a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="30" height="25" /> </a>  
 <br><br>
 </div>
+  
+  
 
-    
+  <!--<a href="https://www.buymeacoffee.com/luanamnzs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="23" width="75" alt="luanamnzs"/></a><-->
+  
   <!--<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanamnzs&layout=compact&langs_count=3&theme=onedark"/><-->
   <!--
   <div style="display: inline_block"><br>
