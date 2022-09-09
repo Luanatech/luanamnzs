@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/luanatech" >
-  <img align="left" alt="Luana" height="110" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/338224_dJAkRlTy.png">
+  <img align="left" alt="Luana" height="90" style="border-radius:0px;" src="http://www.avatarsinpixels.com/chibi/eyJIYWlyTG93ZXIiOiI2IiwiU2hvZXMiOiIyIiwiUGFudHMiOiIxNyIsIlRvcCI6IjMiLCJFeWVicm93cyI6IjEiLCJFeWVzIjoiOSIsIk1vdXRoIjoiNSIsIkhhaXJUb3AiOiI1Iiwic2tpblRvbmUiOiJmOGNlYmYiLCJoYWlyVG9uZSI6ImE2NjUyOCIsImhhaXJUb25lMiI6ImZkZTNkYSIsImV5ZXNUb25lIjoiNmM0MTFhIiwidG9wVG9uZSI6IjMzMzMzMyIsInNob2VzVG9uZSI6ImZmZmZmZiJ9/1/show.png">
     </div>
   
 <div align="left">
@@ -41,8 +41,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-avatars:;
+My avatars: -------------------------------------------------
+
 https://picrew.me/shareImg/org/202206/229486_u6BLyA0c.png
 https://picrew.me/shareImg/org/202206/338224_dJAkRlTy.png
+http://www.avatarsinpixels.com/chibi/eyJIYWlyTG93ZXIiOiI2IiwiU2hvZXMiOiIyIiwiUGFudHMiOiIxNyIsIlRvcCI6IjMiLCJFeWVicm93cyI6IjEiLCJFeWVzIjoiOSIsIk1vdXRoIjoiNSIsIkhhaXJUb3AiOiI1Iiwic2tpblRvbmUiOiJmOGNlYmYiLCJoYWlyVG9uZSI6ImE2NjUyOCIsImhhaXJUb25lMiI6ImZkZTNkYSIsImV5ZXNUb25lIjoiNmM0MTFhIiwidG9wVG9uZSI6IjMzMzMzMyIsInNob2VzVG9uZSI6ImZmZmZmZiJ9/1/show.png
+http://www.avatarsinpixels.com/chibi/eyJIYWlyTG93ZXIiOiIxMSIsIlNob2VzIjoiMiIsIlBhbnRzIjoiMTciLCJUb3AiOiIzIiwiRXllYnJvd3MiOiIxIiwiRXllcyI6IjkiLCJNb3V0aCI6IjUiLCJIYWlyVG9wIjoiNSIsInNraW5Ub25lIjoiZjhjZWJmIiwiaGFpclRvbmUiOiJhNjY1MjgiLCJoYWlyVG9uZTIiOiJmZGUzZGEiLCJleWVzVG9uZSI6IjZjNDExYSIsInRvcFRvbmUiOiIzMzMzMzMiLCJzaG9lc1RvbmUiOiJmZmZmZmYifQ==/1/show.png
 
--->
+>
