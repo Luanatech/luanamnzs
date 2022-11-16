@@ -16,8 +16,9 @@
 </div>
     
 <div align="right" height="30" width="300">
-  <a href="https://ko-fi.com/luanamnzs" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="110" alt="Doar" /></a></div>
-  
+  <a href="https://ko-fi.com/luanamnzs" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="110" alt="Doar ko-fi" /></a></div>
+<div align="left" height="30" width="300"><a href="https://www.buymeacoffee.com/luatech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 100px !important;" ></a></div>
+
 <div align="left"> 
 &nbsp &nbsp <a href="https://twitter.com/techluana" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luanatech" height="15" width="25" /></a><a href="https://linkedin.com/in/@" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@" height="15" width="25" /></a>
 <a href="https://instagram.com/@" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@" height="15" width="25" /></a>
