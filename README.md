@@ -31,7 +31,7 @@
 <br><br>
 </div>
 
-<div align="center" height="30" width="30"><a rel="me" href="https://fosstodon.org/@lua">Mastodon</a></div>
+
   
 
 <!--
