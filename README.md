@@ -16,7 +16,7 @@
 </div>
     
 <div align="right" height="30" width="300">
-  <a href="https://ko-fi.com/luanamnzs" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="110" alt="Doar ko-fi" /></a></div>
+  <a href="https://ko-fi.com/luatech" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="25" width="110" alt="Buy me a ko-fi" /></a></div>
 <div align="left" height="30" width="300"><a href="https://www.buymeacoffee.com/luatech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 100px !important;" ></a></div>
 
 <div align="left"> 
